@@ -15,4 +15,5 @@ public class Controller {
     }
 
     // Squash Merge Test 1
+    // Squash Merge Test 2
 }
